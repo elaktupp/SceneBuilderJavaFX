@@ -1,0 +1,22 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 21.11.2014, 9:34:08
+    Author     : Ohjelmistokehitys
+*/
+/* class selector */
+.button {
+    -fx-background-color: lightgrey;
+}
+/* id selector */
+#button {
+    -fx-background-color: blue;
+}
+
+/* id selector */
+#closeButton {
+    -fx-background-color: red;
+}
